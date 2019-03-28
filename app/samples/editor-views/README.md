@@ -1,2 +1,2 @@
-Exercise: Create Multiple Editor Views
-======================================
+Sample: Create Multiple Editor Views
+====================================
